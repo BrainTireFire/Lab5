@@ -1,4 +1,4 @@
-# Suml Homework
+# SUML subject homework
 
 ## Description
-FastAPI in py
+Create the api for model using FASTAPI 
